@@ -1,0 +1,22 @@
+<!DOCTYPE web-app PUBLIC
+ "-//Sun Microsystems, Inc.//DTD Web Application 2.3//EN"
+ "http://java.sun.com/dtd/web-app_2_3.dtd" >
+
+<web-app>
+  <display-name>Archetype Created Web Application</display-name>
+
+  <!-- 加载spring容器 -->
+  <!--在启动Web容器时，自动装配Spring applicationContext.xml的配置信息
+因为它实现了ServletContextListener这个接口，在web.xml配置这个监听器，启动容器时，就会默认执行它实现的方法。
+在ContextLoaderListener中关联了ContextLoader这个类，所以整个加载配置过程由ContextLoader来完成-->
+  <context-param>
+    <param-name>contextConfigLocation</param-name>
+    <!--spring*.xml表示spring开头的所有xml配置文件全部自动装配-->
+    <param-value>classpath*:spring*.xml</param-value>
+  </context-param>
+  <listener>
+    <listener-class>org.springframework.web.context.ContextLoaderListener</listener-class>
+  </listener>
+
+
+</web-app>

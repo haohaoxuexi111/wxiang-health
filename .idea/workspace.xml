@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="63ffdff8-ccde-406a-8f4e-359c1c51ea17" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\environment\apache-maven-3.8.4" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="#JAVA_HOME" />
+        <option name="vmOptionsForImporter" value="-Xmx2048m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="25zVGv36nmKqzgVckDZSSQG0hOZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../wxiang-springboot" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.12360942" />
+    <property name="project.structure.side.proportion" value="0.38451776" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_backend\src\main\webapp\template" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_backend\src\main\webapp\pages" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_backend\src\main\webapp\plugins\echarts" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_backend\src\main\webapp" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_backend\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_service_provider\src\main\resources" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\springsecurity_demo\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_common\src\main\resources" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_job\src\main\resources" />
+      <recent name="C:\Users\Xiangtai\IdeaProjects\wxiang-health\health_parent\health_jobs\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wxiang.service" />
+      <recent name="com.wxiang.util" />
+      <recent name="com.wxiang.interceptor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.health_service_provider [tomcat7:run]">
+    <configuration name="MD5Utils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.wxiang.utils.MD5Utils" />
+      <module name="health_common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wxiang.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="health_backend [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health_parent/health_backend" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="health_mobile [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health_parent/health_mobile" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="health_service_provider [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/health_parent/health_service_provider" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="springsecurity_demo [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven" temporary="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/springsecurity_demo" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Maven.health_service_provider [tomcat7:run]" />
+        <item itemvalue="Maven.health_backend [tomcat7:run]" />
+        <item itemvalue="Maven.springsecurity_demo [tomcat7:run]" />
+        <item itemvalue="Application.MD5Utils" />
+        <item itemvalue="Maven.health_mobile [tomcat7:run]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63ffdff8-ccde-406a-8f4e-359c1c51ea17" name="Default Changelist" comment="" />
+      <created>1646529810469</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646529810469</updated>
+      <workItem from="1646529812887" duration="28626000" />
+      <workItem from="1646635653843" duration="17475000" />
+      <workItem from="1646701938964" duration="6407000" />
+      <workItem from="1646727166538" duration="2240000" />
+      <workItem from="1646735146338" duration="7966000" />
+      <workItem from="1646791059207" duration="28848000" />
+      <workItem from="1646832431068" duration="1928000" />
+      <workItem from="1646895717388" duration="10553000" />
+      <workItem from="1646964388482" duration="12468000" />
+      <workItem from="1647066055323" duration="11016000" />
+      <workItem from="1647154039779" duration="7775000" />
+      <workItem from="1647224853200" duration="5474000" />
+      <workItem from="1647243742010" duration="11816000" />
+      <workItem from="1647324771335" duration="12601000" />
+      <workItem from="1647395443451" duration="9396000" />
+      <workItem from="1647483562950" duration="16970000" />
+      <workItem from="1647585297678" duration="16033000" />
+      <workItem from="1647676067454" duration="10667000" />
+      <workItem from="1647760241770" duration="1725000" />
+      <workItem from="1647825199536" duration="8400000" />
+      <workItem from="1647916028214" duration="9164000" />
+      <workItem from="1648104319751" duration="291000" />
+      <workItem from="1648450954445" duration="7826000" />
+      <workItem from="1648543053727" duration="975000" />
+      <workItem from="1648641336353" duration="209000" />
+      <workItem from="1648729925015" duration="772000" />
+      <workItem from="1648777095801" duration="23107000" />
+      <workItem from="1648863566257" duration="12639000" />
+      <workItem from="1648948958228" duration="22118000" />
+      <workItem from="1649036879637" duration="2222000" />
+      <workItem from="1649056055787" duration="19000" />
+      <workItem from="1649057583141" duration="635000" />
+      <workItem from="1649159622039" duration="4074000" />
+      <workItem from="1649226168827" duration="15552000" />
+      <workItem from="1649296390375" duration="3868000" />
+      <workItem from="1649317534719" duration="1378000" />
+      <workItem from="1649327972994" duration="9660000" />
+      <workItem from="1649576711867" duration="2658000" />
+      <workItem from="1649579631563" duration="4875000" />
+      <workItem from="1649753497210" duration="631000" />
+      <workItem from="1649944650147" duration="77000" />
+      <workItem from="1650075627687" duration="16083000" />
+      <workItem from="1650250876747" duration="581000" />
+      <workItem from="1651045100982" duration="13283000" />
+      <workItem from="1651738204076" duration="5160000" />
+      <workItem from="1651910492627" duration="2867000" />
+      <workItem from="1651913887273" duration="741000" />
+      <workItem from="1652057200623" duration="3174000" />
+      <workItem from="1652074700388" duration="6859000" />
+      <workItem from="1652087140656" duration="754000" />
+      <workItem from="1652151366507" duration="784000" />
+      <workItem from="1652256570173" duration="3020000" />
+      <workItem from="1652414580714" duration="1938000" />
+      <workItem from="1652437725586" duration="1277000" />
+      <workItem from="1652517847755" duration="249000" />
+      <workItem from="1652925374681" duration="15171000" />
+      <workItem from="1653030431800" duration="8306000" />
+      <workItem from="1653391833257" duration="719000" />
+      <workItem from="1653461738949" duration="287000" />
+      <workItem from="1653465227172" duration="739000" />
+      <workItem from="1653466656471" duration="343000" />
+      <workItem from="1653467340500" duration="5130000" />
+      <workItem from="1653897465052" duration="3101000" />
+      <workItem from="1653964724601" duration="306000" />
+      <workItem from="1655020477705" duration="2623000" />
+      <workItem from="1655193027355" duration="876000" />
+      <workItem from="1655282066500" duration="438000" />
+      <workItem from="1655869182876" duration="2366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
